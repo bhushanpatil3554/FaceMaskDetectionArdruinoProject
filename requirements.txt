@@ -1,0 +1,11 @@
+tensorflow>=2.5.0
+keras==2.4.3
+imutils==0.5.4
+numpy
+opencv-python
+matplotlib
+scipy
+pyfirmata
+scikit-learn
+tensorflow-hub
+pyserial
